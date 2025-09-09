@@ -1,0 +1,15 @@
+# Local conda environments
+env/
+.conda/
+conda_env/
+miniforge3/
+
+# Jupyter cache
+.ipynb_checkpoints/
+
+# Temp files
+__pycache__/
+*.pyc
+.DS_Store
+
+
